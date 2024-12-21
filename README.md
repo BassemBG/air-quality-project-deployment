@@ -2,4 +2,5 @@ This is an BI/ML project that lasted the whole semester from data collection to 
 
 
 **IMPORTANT NOTE FOR CONTRIBUTORS (TEAM MEMBERS)**
+
 Please check the CONTRIBUTING.md file :)
