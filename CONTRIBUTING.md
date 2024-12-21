@@ -7,28 +7,35 @@ This document provides essential guidelines and best practices for working colla
 ## ✅ Getting the Project on Your Local Machine
 
 1. **Clone the Repository**
+   - Open your terminal and run:
+     ```bash
+     git clone https://github.com/your-repo-name.git
+     cd your-repo-name
+     ```
 
-   - i 
+2. **Set Up a Virtual Environment**
+   - Create a virtual environment:
+     ```bash
+     python -m venv venv
+     ```
+   - Activate the virtual environment:
      ```bash
      venv\Scripts\activate
      ```
 
-2. **Install Dependencies**
-
+3. **Install Dependencies**
    - Install the required packages:
      ```bash
      pip install -r requirements.txt
      ```
 
-3. **Run Database Migrations**
-
+4. **Run Database Migrations**
    - Apply database migrations:
      ```bash
      python manage.py migrate
      ```
 
-4. **Run the Development Server**
-
+5. **Run the Development Server**
    - Start the server to verify everything works:
      ```bash
      python manage.py runserver
