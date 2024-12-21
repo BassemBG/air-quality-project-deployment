@@ -9,8 +9,8 @@ This document provides essential guidelines and best practices for working colla
 1. **Clone the Repository**
    - Open your terminal and run:
      ```bash
-     git clone https://github.com/your-repo-name.git
-     cd your-repo-name
+     git clone https://github.com/BassemBG/air-quality-project-deployment.git
+     cd air-quality-project-deployment
      ```
 
 2. **Set Up a Virtual Environment**
